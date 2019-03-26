@@ -3,5 +3,6 @@ Seoye's content
 
 
 #title
-contenty
+content
+Hello Seoye !!
 
